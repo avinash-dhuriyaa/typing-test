@@ -37,3 +37,4 @@ To run the typing test locally, follow these steps:
 To start the application, run:
 ```sh
 npm start
+   
