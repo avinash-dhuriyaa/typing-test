@@ -1,40 +1,22 @@
-Project link  https://avinash-dhuriyaa.github.io/typing-test/
+# ⌨️ Typing Test App
 
- 
-# typing-test
-# Typing Test
+A minimal and fun Typing Speed Test project made using **HTML, CSS & JavaScript** to measure your words per minute (WPM) and improve typing skills.
 
-## Overview
+## 🚀 Live Preview
 
-This project is a simple typing test application designed to measure your typing speed and accuracy. It provides a user-friendly interface where users can type a given text and receive feedback on their performance.
+![Typing Test Preview](./typing-test-screenshot.png)
 
-## Features
+## 🧠 Features
 
-- Real-time typing speed and accuracy calculation
-- Highlighting of mistyped words
-- User-friendly interface
-- Detailed statistics after completion
+- Random sentence generator
+- Real-time accuracy and speed tracking
+- Words Per Minute (WPM) calculation
+- Error highlighting
+- Restart button
 
-## Installation
+## 📸 Screenshot
 
-To run the typing test locally, follow these steps:
+Place your image in the project folder and rename it:
+```bash
+typing-test-screenshot.png
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/avinash-dhuriyaa/typing-test.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd typing-test
-    ```
-3. Install the dependencies:
-    ```sh
-    npm install
-    ```
-
-## Usage
-
-To start the application, run:
-```sh
-npm start
-   
