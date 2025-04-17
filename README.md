@@ -4,7 +4,7 @@ A minimal and fun Typing Speed Test project made using **HTML, CSS & JavaScript*
 
 ## 🚀 Live Preview
 
-![Typing Test Preview](./typing-test-screenshot.png)
+![Typing Test Preview](mr3.webp)
 
 ## 🧠 Features
 
